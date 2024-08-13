@@ -25,3 +25,4 @@ for each data source and using SQL INSERT statements to load the data.
 Formulatedand executed  SQL queries to extract key insights from the data. These queries have addressed important business questions 
 and supported the analysis.
 
+
