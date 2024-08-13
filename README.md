@@ -12,6 +12,7 @@ Technical Tags used:
 **Data Cleaning and Preparation**
 After cleaning and pre processing I have
 Merged datasets where necessary for analysis.
+
 **Loaded Data**
 Inserted the preprocessed data into an SQL database by creating relevant tables for each data source 
 and using SQL INSERT statements to load the data.
