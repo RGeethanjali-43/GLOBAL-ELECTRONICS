@@ -10,18 +10,18 @@ Technical Tags used:
 
 **Approach:**
 
-**Data Cleaning and Preparation**
+**Data Cleaning and Preparation:**
 After cleaning and pre processing I have
 Merged datasets where necessary for analysis.
 
-**Loaded Data**
+**Loaded Data:**
 Inserted the preprocessed data into an SQL database by creating relevant tables 
 for each data source and using SQL INSERT statements to load the data.
 
-**Power BI Visualization**
+**Power BI Visualization:**
  Connected SQL to Power BI import the data, and create interactive dashboards.
 
-**Developed  SQL Queries**
+**Developed  SQL Queries:**
 Formulatedand executed  SQL queries to extract key insights from the data. These queries have addressed important business questions 
 and supported the analysis.
 
