@@ -9,13 +9,14 @@ Technical Tags used:
 3. Power bi
 
 **Approach:**
+
 **Data Cleaning and Preparation**
 After cleaning and pre processing I have
 Merged datasets where necessary for analysis.
 
 **Loaded Data**
-Inserted the preprocessed data into an SQL database by creating relevant tables for each data source 
-and using SQL INSERT statements to load the data.
+Inserted the preprocessed data into an SQL database by creating relevant tables 
+for each data source and using SQL INSERT statements to load the data.
 
 **Power BI Visualization**
  Connected SQL to Power BI import the data, and create interactive dashboards.
