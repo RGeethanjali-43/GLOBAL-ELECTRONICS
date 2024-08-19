@@ -25,23 +25,23 @@ for each data source and using SQL INSERT statements to load the data.
 Formulatedand executed  SQL queries to extract key insights from the data. These queries have addressed important business questions 
 and supported the analysis.
 
-**Summarisation and insights from Gloabal electronics data**
+**Summarisation and insights from Gloabal electronics data:**
 In 2021 sales is highly droped based on all the products and categoreies so this can be managed by
 **giving offers and discounts for 2 or 3 months so that the sale can become high**
 
 Due to covid the sales have been broght down due to lockdown, online education , work from home chances are high
 giving offers in cell phones and computers and other electronic gadgets can increase the sales.
 
-**Customer Analysis**
+**Customer Analysis:**
 People are purchasing higher whose age is more than 51 so Global electronics can give offers in 
 home appliances product so the sales will be get increasing 
 
 
-**Analysis by years**
+**Analysis by years:**
 In every  year December the sales is high, after december the sales is low
 after Christmas offers the sales is really low so continue the offers and discounts
 and also can give buy 1 get 1 offer so the chances of increasing sales is high.
 
-**Exchange rate**
+**Exchange rate:**
 By currency AUD currency is higher in exchange rate you can give condition to the customers 
 that the products are not exchange and return.
